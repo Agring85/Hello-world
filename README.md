@@ -1,2 +1,2 @@
 # Hello-world
-This is just a test
+Im completly new to coding and trying to learn with the help of a friend of mine. Atm im on introduction to Racket. This is a branch from the master
